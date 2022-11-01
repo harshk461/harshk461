@@ -1,16 +1,19 @@
-### Hi there 👋
+### <h1 align='center'>Hey, I'm Harsh</h1>
+<h3 align='center'>Web and App Developer</h3>
+<img align="right" alt="coding" width="400" src="https://octodex.github.com/images/pusheencat.png">
 
-<!--
-**harshk461/harshk461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍🎓 Pursuing B.Tech. in **Information Technology.**
 
-Here are some ideas to get you started:
+- ✨ Learning **Data Structures And Algorithms in C++.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Currently working on some **Flutter projects.**
+
+- 🤝 Looking to work together with **people who loves learning in community.**
+
+- ⚡ Fun fact : **I'm a Hooman**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh-kumar-5333a722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_k_8597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh" height="30" width="40" /></a>
+</p>
