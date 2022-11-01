@@ -17,3 +17,10 @@
 <a href="https://www.linkedin.com/in/harsh-kumar-5333a722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_k_8597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh" height="30" width="40" /></a>
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshk461&show_icons=true&locale=en&layout=compact" alt="harsh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshk461&show_icons=true&locale=en" alt="harsh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshk461&" alt="harsh" /></p>
