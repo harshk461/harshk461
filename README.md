@@ -1,6 +1,7 @@
 ### <h1 align='center'>Hey, I'm Harsh</h1>
 <h3 align='center'>Web and App Developer</h3>
 <img align="right" alt="coding" width="400" src="https://octodex.github.com/images/pusheencat.png">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshk461" alt="harshk461" /></a> </p>
 
 - 👩‍🎓 Pursuing B.Tech. in **Information Technology.**
 
