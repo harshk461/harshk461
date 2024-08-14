@@ -11,12 +11,10 @@
 
 - 🤝 Looking to work together with **people who loves learning in community.**
 
-- ⚡ Fun fact : **I'm a Hooman**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harsh-kumar-5333a722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh_k_8597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshk87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh" height="30" width="40" /></a>
+<a href="https://instagram.com/harshh.kkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh" height="30" width="40" /></a>
 </p>
 
 
